@@ -1,0 +1,5 @@
+supplier,matched_items_count,avg_semantic_score,min_price,final_score,match_explanation
+ООО МеталлСнаб,2,0.4631893588775412,120.0,0.3242325512142788,semantic=0.463; min_price=120.0
+ЗАО БумагаПлюс,1,0.0,45.0,0.3,semantic=0.0; min_price=45.0
+ООО КабельТорг,1,0.0,95.5,0.09799999999999999,semantic=0.0; min_price=95.5
+ООО Универсал,1,0.07968010484187177,110.0,0.09577607338931024,semantic=0.08; min_price=110.0
